@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T15:17:40.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="fqeXf_mlC67oXhnUFHYH" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T15:19:07.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="d2iyB0UR3zQSZgx084sH" version="24.2.1" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
-    <mxGraphModel dx="1942" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4134,146 +4134,140 @@
         <mxCell id="X3594flFKX3nr7IJAPTx-258" value="防火墙 升级" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=firewall;fillColor=#FAFAFA;strokeColor=#005073;fontSize=14;fontFamily=Helvetica;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="856.6000000000004" y="3560" width="76.8" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X3594flFKX3nr7IJAPTx-257" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;gradientColor=#ffd966;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="631.4410921599542" y="3612" as="sourcePoint" />
-            <mxPoint x="663.3417767018163" y="3555.8806422748066" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X3594flFKX3nr7IJAPTx-240" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="291.72" y="3477" width="393.3" height="250" as="geometry" />
+          <mxGeometry x="291.75" y="3477" width="398.25" height="273" as="geometry" />
         </mxCell>
         <mxCell id="X3594flFKX3nr7IJAPTx-241" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;--服务器区域--&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="291.38" y="3477" width="85.733123118819" height="27.608936170212772" as="geometry" />
-        </mxCell>
-        <mxCell id="X3594flFKX3nr7IJAPTx-256" value="服务器交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="628.761932062491" y="3583.276595744681" width="108.23806793750899" height="57.446808510638306" as="geometry" />
+          <mxGeometry x="291.38" y="3477" width="93.3516188171634" height="30.148958297872348" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="453.88779418088006" y="3512.6170212765956" width="139.6914074817257" height="91.91489361702129" as="geometry" />
+          <mxGeometry x="468.3287113652292" y="3515.8937872340425" width="152.1047939102156" height="100.37106382978726" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-16" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry width="139.6914074817257" height="91.91489361702106" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="100.371063829787" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry width="139.6914074817257" height="72.76595744680834" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="79.46042553191472" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-18" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry x="22.09452428335986" y="8.04255319148969" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="8.782468085106743" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-19" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry x="22.09452428335986" y="23.744680851063894" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="25.929191489361774" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-20" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry x="22.09452428335986" y="39.063829787234106" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="42.65770212765965" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-21" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry x="22.09452428335986" y="55.148936170212686" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="60.22263829787226" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-22" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;新增--超融合&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=11;fontColor=#FF0000;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-15">
-          <mxGeometry x="17.461425935215903" y="72.76595744680841" width="104.76855561129427" height="19.14893617021272" as="geometry" />
+          <mxGeometry x="19.01309923877716" y="79.4604255319148" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="302.9974974917586" y="3512.6170212765956" width="139.6914074817257" height="91.91489361702129" as="geometry" />
+          <mxGeometry x="304.0298622470216" y="3515.8937872340425" width="152.1047939102156" height="100.37106382978726" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-24" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry width="139.6914074817257" height="91.91489361702106" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="100.371063829787" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry width="139.6914074817257" height="72.76595744680834" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="79.46042553191472" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-26" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry x="22.09452428335986" y="8.04255319148969" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="8.782468085106743" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-27" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry x="22.09452428335986" y="23.744680851063894" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="25.929191489361774" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-28" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry x="22.09452428335986" y="39.063829787234106" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="42.65770212765965" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-29" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry x="22.09452428335986" y="55.148936170212686" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799367" y="60.22263829787226" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;原有--应用服务器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=11;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-23">
-          <mxGeometry x="17.461425935215903" y="72.76595744680841" width="104.76855561129427" height="19.14893617021272" as="geometry" />
+          <mxGeometry x="19.01309923877716" y="79.4604255319148" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="302.9974974917586" y="3616.021276595745" width="139.69140748172572" height="45.957446808510646" as="geometry" />
+          <mxGeometry x="304.0298622470216" y="3628.811234042553" width="152.10479391021562" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-32" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="dEoQwvUcUHoyEbIkCs9y-39">
-          <mxGeometry width="139.6914074817257" height="45.957446808510646" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-39">
-          <mxGeometry width="139.6914074817257" height="26.42553191489362" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="28.856680851063835" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-34" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-39">
-          <mxGeometry x="22.094524283359874" y="8.042553191489885" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799385" y="8.782468085106956" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-38" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;新增--文件服务器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=11;fontColor=#FF0000;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-39">
-          <mxGeometry x="17.461425935215882" y="26.808510638297527" width="104.76855561129427" height="19.14893617021272" as="geometry" />
+          <mxGeometry x="19.013099238777134" y="29.2748936170209" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="302.9974974917586" y="3673.468085106383" width="139.69140748172572" height="45.957446808510646" as="geometry" />
+          <mxGeometry x="304.0298622470216" y="3691.5431489361704" width="152.10479391021562" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-41" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="dEoQwvUcUHoyEbIkCs9y-40">
-          <mxGeometry width="139.6914074817257" height="45.957446808510646" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-40">
-          <mxGeometry width="139.6914074817257" height="26.42553191489362" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="28.856680851063835" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-43" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-40">
-          <mxGeometry x="22.094524283359874" y="8.042553191489885" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799385" y="8.782468085106956" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-44" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;新增--堡垒机&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=11;fontColor=#FF0000;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-40">
-          <mxGeometry x="17.461425935215882" y="26.808510638297527" width="104.76855561129427" height="19.14893617021272" as="geometry" />
+          <mxGeometry x="19.013099238777134" y="29.2748936170209" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-45" value="" style="group;fontColor=#FF0000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="453.88779418088006" y="3616.021276595745" width="139.69140748172572" height="45.957446808510646" as="geometry" />
+          <mxGeometry x="468.3287113652292" y="3628.811234042553" width="152.10479391021562" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-46" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="dEoQwvUcUHoyEbIkCs9y-45">
-          <mxGeometry width="139.6914074817257" height="45.957446808510646" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-45">
-          <mxGeometry width="139.6914074817257" height="26.42553191489362" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="28.856680851063835" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-48" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-45">
-          <mxGeometry x="22.094524283359874" y="8.042553191489885" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799385" y="8.782468085106956" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-49" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;新增--EDR平台&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=11;fontColor=#FF0000;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-45">
-          <mxGeometry x="17.461425935215882" y="26.808510638297527" width="104.76855561129427" height="19.14893617021272" as="geometry" />
+          <mxGeometry x="19.013099238777134" y="29.2748936170209" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="453.88779418088006" y="3673.468085106383" width="139.69140748172572" height="45.957446808510646" as="geometry" />
+          <mxGeometry x="468.3287113652292" y="3691.5431489361704" width="152.10479391021562" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-51" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="dEoQwvUcUHoyEbIkCs9y-50">
-          <mxGeometry width="139.6914074817257" height="45.957446808510646" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="50.18553191489363" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-50">
-          <mxGeometry width="139.6914074817257" height="26.42553191489362" as="geometry" />
+          <mxGeometry width="152.1047939102156" height="28.856680851063835" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-53" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.security.aruba_clearpass_c2000_front;container=0;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-50">
-          <mxGeometry x="22.094524283359874" y="8.042553191489885" width="95.50623923188097" height="9.957446808510616" as="geometry" />
+          <mxGeometry x="24.057908236799385" y="8.782468085106956" width="103.99320256978159" height="10.873531914893594" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;新增--备份一体机&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=11;fontColor=#FF0000;" vertex="1" parent="dEoQwvUcUHoyEbIkCs9y-50">
-          <mxGeometry x="17.461425935215882" y="26.808510638297527" width="104.76855561129427" height="19.14893617021272" as="geometry" />
+          <mxGeometry x="19.013099238777134" y="29.2748936170209" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;gradientColor=#ffd966;" edge="1" parent="1" source="dEoQwvUcUHoyEbIkCs9y-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="818.9822989823707" y="3661.978723404255" as="sourcePoint" />
-            <mxPoint x="631.4410921599542" y="3612" as="targetPoint" />
+            <mxPoint x="865.8665800981195" y="3678.9967659574468" as="sourcePoint" />
+            <mxPoint x="661.6599139355747" y="3624.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;gradientColor=#ffd966;" edge="1" parent="1" source="dEoQwvUcUHoyEbIkCs9y-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.6494911853233" y="3579.255319148936" as="sourcePoint" />
-            <mxPoint x="631.4410921599542" y="3612" as="targetPoint" />
+            <mxPoint x="632.4875330552111" y="3588.662808510638" as="sourcePoint" />
+            <mxPoint x="661.6599139355747" y="3624.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dEoQwvUcUHoyEbIkCs9y-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=default;strokeWidth=2;gradientColor=#ffd966;" edge="1" parent="1" source="dEoQwvUcUHoyEbIkCs9y-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.6494911853233" y="3641.297872340426" as="sourcePoint" />
-            <mxPoint x="631.4410921599542" y="3612" as="targetPoint" />
+            <mxPoint x="632.4875330552111" y="3656.413276595745" as="sourcePoint" />
+            <mxPoint x="661.6599139355747" y="3624.42" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X3594flFKX3nr7IJAPTx-256" value="服务器交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="650" y="3592" width="87" height="40.72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
