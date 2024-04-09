@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T01:58:18.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="WTkBC8gFhaD1zDY3iRIG" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T07:46:54.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="Wd295RuvB9EFIDusxX1x" version="24.2.2" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
-    <mxGraphModel dx="4183" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7804,35 +7804,137 @@
         <mxCell id="LNYegah4Ht5SKdNQzRfE-869" value="技术中心4F光纤盒" style="shape=mxgraph.cisco.modems_and_phones.modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="11996.5" y="5620" width="117" height="41.03" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-10" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="11139.99760304489" y="4930" width="152.10479391021545" height="122.09676595744622" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-3" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="tPNMXAHGclEVHPCGgXiw-10">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-3" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" parent="tPNMXAHGclEVHPCGgXiw-10" vertex="1" connectable="0">
           <mxGeometry y="71.91123404255268" width="152.1047939102156" height="50.18553191489363" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" vertex="1" parent="tPNMXAHGclEVHPCGgXiw-10">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;container=0;" parent="tPNMXAHGclEVHPCGgXiw-10" vertex="1">
           <mxGeometry x="0.0023969551093614427" width="152.1" height="100.77" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-5" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;无线控制器集群&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=10;fontColor=#FF0000;" vertex="1" parent="tPNMXAHGclEVHPCGgXiw-10">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-5" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;无线控制器集群&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=10;fontColor=#FF0000;" parent="tPNMXAHGclEVHPCGgXiw-10" vertex="1">
           <mxGeometry x="19.013099238776704" y="101.18612765957369" width="114.0785954326617" height="20.910638297872293" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-8" value="&lt;font color=&quot;#ff0000&quot;&gt;无线控制器A&lt;/font&gt;" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" vertex="1" parent="tPNMXAHGclEVHPCGgXiw-10">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-8" value="&lt;font color=&quot;#ff0000&quot;&gt;无线控制器A&lt;/font&gt;" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" parent="tPNMXAHGclEVHPCGgXiw-10" vertex="1">
           <mxGeometry x="38.07239695510907" y="9.99999999999909" width="72.96" height="21.89" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-9" value="无线控制器B" style="fontColor=#FF0000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" vertex="1" parent="tPNMXAHGclEVHPCGgXiw-10">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-9" value="无线控制器B" style="fontColor=#FF0000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" parent="tPNMXAHGclEVHPCGgXiw-10" vertex="1">
           <mxGeometry x="38.07239695510907" y="56" width="72.96" height="21.89" as="geometry" />
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-11" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;exitX=0.07;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNYegah4Ht5SKdNQzRfE-1266" target="tPNMXAHGclEVHPCGgXiw-4">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-11" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;exitX=0.07;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LNYegah4Ht5SKdNQzRfE-1266" target="tPNMXAHGclEVHPCGgXiw-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="11688" y="5364" as="sourcePoint" />
             <mxPoint x="11287" y="5126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPNMXAHGclEVHPCGgXiw-12" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;exitX=0.07;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNYegah4Ht5SKdNQzRfE-1265" target="tPNMXAHGclEVHPCGgXiw-4">
+        <mxCell id="tPNMXAHGclEVHPCGgXiw-12" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;exitX=0.07;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LNYegah4Ht5SKdNQzRfE-1265" target="tPNMXAHGclEVHPCGgXiw-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="11698" y="5374" as="sourcePoint" />
             <mxPoint x="11297" y="5136" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;铌奥光电--新工厂网络拓扑图&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=top;fontStyle=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="4330.99" width="690" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-3" value="总机房网络" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4370" y="4380.13" width="270" height="149.87" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.8;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;gradientColor=#ffd966;exitX=0.652;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jFKBn1AdILnnC3zNH6G4-1" target="jFKBn1AdILnnC3zNH6G4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5096" y="4647.13" as="sourcePoint" />
+            <mxPoint x="4556" y="4558.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-21" value="4口光纤终端盒" style="shape=mxgraph.cisco.modems_and_phones.modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#FF0000;fontStyle=1;fontSize=9;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="4488.42" width="48.77" height="17.1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-53" value="" style="group;fontSize=9;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4780" y="4772" width="538.57" height="327.7" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-23" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=top;fontStyle=1;strokeColor=#000000;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry width="538.5700000000003" height="327.7" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-24" value="&lt;span style=&quot;font-family: Verdana; font-size: 17px; font-weight: 700;&quot;&gt;铌奥光电&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; font-size: 17px; font-weight: 700;&quot;&gt;--新工厂区弱电机房&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="155.31" y="3.87" width="227.94" height="23.24" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-26" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="12.88322655350987" y="32.53758865248226" width="512.0520899021866" height="279.6683215130023" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;--弱电机房--&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="12.86" y="32.54" width="67.14" height="23.24" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-38" value="4口光纤终端盒" style="shape=mxgraph.cisco.modems_and_phones.modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#FF0000;fontStyle=1;fontSize=9;labelBackgroundColor=default;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="116.69274899309562" y="27.11465721040189" width="37.782017980437296" height="13.247446808510638" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.92;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;exitX=0.16;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-30" target="jFKBn1AdILnnC3zNH6G4-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="586.1596937571925" y="118.91713947990543" as="sourcePoint" />
+            <mxPoint x="167.82281228423489" y="49.968439716312055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-40" target="jFKBn1AdILnnC3zNH6G4-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50.14619692174952" y="-121.64797281323919" as="sourcePoint" />
+            <mxPoint x="163.94932264096676" y="-223.11489361702127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-41" target="jFKBn1AdILnnC3zNH6G4-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198.03603150172626" y="134.0238770685579" as="sourcePoint" />
+            <mxPoint x="276.2805222957424" y="89.09101654846334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-30" value="48口接入交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="229.54299626006926" y="43.38345153664302" width="78.24449079401614" height="38.73522458628841" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-8" value="无线AP" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="325.6597682681243" y="188.25319148936168" width="42.499750429405786" height="42.499750429405786" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-8" target="jFKBn1AdILnnC3zNH6G4-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50.14619692174952" y="-121.64797281323919" as="sourcePoint" />
+            <mxPoint x="163.94932264096676" y="-223.11489361702127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-41" value="24口POE交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="307.7874870540854" y="126.27683215130021" width="78.24449079401614" height="32.6228061465721" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-15" value="笔记本" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;fontColor=none;noLabel=1;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="300.27291714614535" y="259.0121749408983" width="38.7347342593928" height="27.114313981574963" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-16" value="手机" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cell_phone;fillColor=#005073;strokeColor=none;fontColor=none;noLabel=1;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="368.1596966340626" y="253.20189125295508" width="19.3673671296964" height="38.7347342593928" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-46" value="PC" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="411.5427806386656" y="49.58108747044917" width="38.7347342593928" height="30.98778740751424" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-47" value="笔记本" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="206.55770871691615" y="203.6388226950352" width="38.7347342593928" height="27.114313981574963" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-46" target="jFKBn1AdILnnC3zNH6G4-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50.14619692174952" y="-121.64797281323919" as="sourcePoint" />
+            <mxPoint x="163.94932264096676" y="-223.11489361702127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-50" value="PC" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="133.32551352128917" y="199.76530023640635" width="38.7347342593928" height="30.98778740751424" as="geometry" />
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-50" target="jFKBn1AdILnnC3zNH6G4-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120.56623863636375" y="136.34799054373522" as="sourcePoint" />
+            <mxPoint x="237.54562586306113" y="89.09101654846334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jFKBn1AdILnnC3zNH6G4-53" source="jFKBn1AdILnnC3zNH6G4-47" target="jFKBn1AdILnnC3zNH6G4-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128.3132179229" y="144.0950354609929" as="sourcePoint" />
+            <mxPoint x="245.2926051495974" y="96.83806146572104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFKBn1AdILnnC3zNH6G4-40" value="48口接入交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="jFKBn1AdILnnC3zNH6G4-53">
+          <mxGeometry x="151.29850546605311" y="126.27683215130021" width="78.24449079401614" height="32.6228061465721" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
