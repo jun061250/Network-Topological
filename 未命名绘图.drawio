@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T01:09:43.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" etag="AUrHcdLQ2eXpFV9p2DCD" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T01:15:38.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" etag="2iJPrldGqIosHVFnZluc" version="24.6.5" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="1647" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -8265,22 +8265,16 @@
         <mxCell id="p5U5duKFv0psnRdu3bTE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p5U5duKFv0psnRdu3bTE-50" target="p5U5duKFv0psnRdu3bTE-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5U5duKFv0psnRdu3bTE-59" value="终端杀毒平台&lt;div&gt;EDR&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;fontColor=#FF0000;textShadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4447.030000000001" y="3897" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="p5U5duKFv0psnRdu3bTE-60" value="终端管控&lt;div&gt;IP-GUARD&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;fontColor=#FF0000;textShadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4610.500000000001" y="3897" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="p5U5duKFv0psnRdu3bTE-61" value="服务器交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="4603.960000000001" y="4123.479999999999" width="93.07" height="36.06" as="geometry" />
         </mxCell>
         <mxCell id="p5U5duKFv0psnRdu3bTE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" parent="1" source="p5U5duKFv0psnRdu3bTE-61" target="p5U5duKFv0psnRdu3bTE-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5U5duKFv0psnRdu3bTE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p5U5duKFv0psnRdu3bTE-59" target="p5U5duKFv0psnRdu3bTE-48" edge="1">
+        <mxCell id="p5U5duKFv0psnRdu3bTE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="p5U5duKFv0psnRdu3bTE-59" target="p5U5duKFv0psnRdu3bTE-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5U5duKFv0psnRdu3bTE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p5U5duKFv0psnRdu3bTE-60" target="p5U5duKFv0psnRdu3bTE-48" edge="1">
+        <mxCell id="p5U5duKFv0psnRdu3bTE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="p5U5duKFv0psnRdu3bTE-60" target="p5U5duKFv0psnRdu3bTE-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4650" y="4020" />
@@ -8516,12 +8510,9 @@
             <mxPoint x="6434.5" y="4189" as="sourcePoint" />
             <mxPoint x="6561.5" y="4267" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="6435.5" y="4267" />
+              <mxPoint x="6460" y="4267" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bpQc_L1B867CBQe98kLy-51" value="超融合" style="fontColor=#FF0000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="6379.7" y="4093.87" width="108.8" height="95" as="geometry" />
         </mxCell>
         <mxCell id="bpQc_L1B867CBQe98kLy-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" parent="1" source="bpQc_L1B867CBQe98kLy-13" target="bpQc_L1B867CBQe98kLy-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -8532,7 +8523,7 @@
         <mxCell id="bpQc_L1B867CBQe98kLy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" parent="1" source="bpQc_L1B867CBQe98kLy-22" target="bpQc_L1B867CBQe98kLy-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bpQc_L1B867CBQe98kLy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bpQc_L1B867CBQe98kLy-32" target="bpQc_L1B867CBQe98kLy-34" edge="1">
+        <mxCell id="bpQc_L1B867CBQe98kLy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="bpQc_L1B867CBQe98kLy-32" target="bpQc_L1B867CBQe98kLy-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6106" y="4030" />
@@ -8540,7 +8531,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpQc_L1B867CBQe98kLy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bpQc_L1B867CBQe98kLy-33" target="bpQc_L1B867CBQe98kLy-34" edge="1">
+        <mxCell id="bpQc_L1B867CBQe98kLy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="bpQc_L1B867CBQe98kLy-33" target="bpQc_L1B867CBQe98kLy-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eJUBXc7lDT5zk8IHEGXy-1" value="&lt;font color=&quot;#ff0000&quot;&gt;新增专线宽带&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;公司网站系统发布&lt;/font&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.private_cloud;fontColor=#ffffff;" vertex="1" parent="1">
@@ -8566,6 +8557,30 @@
               <mxPoint x="5450" y="4054" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eJUBXc7lDT5zk8IHEGXy-7" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="6545.36" y="4339" width="100" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="eJUBXc7lDT5zk8IHEGXy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJUBXc7lDT5zk8IHEGXy-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6445.44792175293" y="4187.569671630859" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6596" y="4330" />
+              <mxPoint x="6445" y="4330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eJUBXc7lDT5zk8IHEGXy-6" value="新增公司网站系统" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;textShadow=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="6561.529999999999" y="4354.100000000001" width="69.73" height="55.79" as="geometry" />
+        </mxCell>
+        <mxCell id="bpQc_L1B867CBQe98kLy-51" value="超融合" style="fontColor=#FF0000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="6379.7" y="4093.87" width="108.8" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="p5U5duKFv0psnRdu3bTE-60" value="终端管控&lt;div&gt;IP-GUARD&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;fontColor=#FF0000;textShadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4610.500000000001" y="3897" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p5U5duKFv0psnRdu3bTE-59" value="终端杀毒平台&lt;div&gt;EDR&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;fontColor=#FF0000;textShadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4447.030000000001" y="3897" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
