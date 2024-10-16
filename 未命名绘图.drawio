@@ -11098,15 +11098,6 @@
         <mxCell id="nUoPsl5Ss7Umqq4KMK6K-154" value="终端杀毒平台&lt;div&gt;EDR&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/WebHosting.svg;fontColor=#FF0000;textShadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="6940.000000000001" y="6747" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nUoPsl5Ss7Umqq4KMK6K-155" value="14楼层交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="6592.35" y="7569.999999999999" width="93.07" height="36.06" as="geometry" />
-        </mxCell>
-        <mxCell id="nUoPsl5Ss7Umqq4KMK6K-156" value="13楼层交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="6478.35" y="7569.999999999999" width="93.07" height="36.06" as="geometry" />
-        </mxCell>
-        <mxCell id="nUoPsl5Ss7Umqq4KMK6K-158" value="15楼层交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="6707.380000000001" y="7569.999999999999" width="93.07" height="36.06" as="geometry" />
-        </mxCell>
         <mxCell id="nUoPsl5Ss7Umqq4KMK6K-180" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="6724.9800000000005" y="7213.22" width="322.10000000000065" height="148.03000000000083" as="geometry" />
         </mxCell>
