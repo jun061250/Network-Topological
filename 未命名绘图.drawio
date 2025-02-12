@@ -12662,6 +12662,15 @@
         <mxCell id="XxPUg8jDC3zDPYVJNkm1-129" value="40P A平面一区交换机(实时)" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=13;fontColor=#FF0000;textShadow=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="5634.5700000000015" y="8256.03" width="93.07" height="36.06" as="geometry" />
         </mxCell>
+        <mxCell id="XxPUg8jDC3zDPYVJNkm1-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="XxPUg8jDC3zDPYVJNkm1-109" target="XxPUg8jDC3zDPYVJNkm1-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxPUg8jDC3zDPYVJNkm1-131" value="LAN2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4934.330000000001" y="7978" width="37.53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XxPUg8jDC3zDPYVJNkm1-132" value="ETH9" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5489.570000000001" y="7829" width="37.53" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
